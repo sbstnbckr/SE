@@ -1,6 +1,7 @@
-# SE - Software Engineering 
-## Praktikum - WS 2014/15
-### Prof. Dr. Hans W. Nissen
+# SE - Software Engineering  
+
+
+## Praktikum - WS 2014/15 bei Prof. Dr. Hans W. Nissen
 
 
 Programmieraufgaben im Rahmen des Kurses Software Engineering.
